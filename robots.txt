@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-hongkoeert.github.io/dfe-3/sitemap.xml
